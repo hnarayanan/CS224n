@@ -30,3 +30,6 @@ probably take this class.
    - [ ] Suggested Reading
       - [ ] [Distributed Representations of Words and Phrases and their Compositionality](papers/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
       - [ ] [Efficient Estimation of Word Representations in Vector Space](papers/1301.3781.pdf)
+- [ ] **Lecture 3:** Advanced word vector representations: language
+   models, softmax, single layer networks
+   - [ ] [Video](https://youtu.be/CP9bIt4IPVo)
